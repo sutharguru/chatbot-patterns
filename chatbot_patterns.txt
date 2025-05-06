@@ -12,6 +12,7 @@ Where is the EU-QA portal?
 EU-QA site link
 EU-QA platform urls
 EU-QA environment links
+
 Open EU-Prod environment
 EU-Prod environment URLs
 All EU-Prod URLs
@@ -26,6 +27,7 @@ Where is the EU-Prod portal?
 EU-Prod site link
 EU-Prod platform urls
 EU-Prod environment links
+
 URL for the Admin EU-QA environment
 EU-QA admin dashboard URLs
 Admin EU-QA URL
@@ -51,6 +53,7 @@ Admin dashboard portal link for EU-QA?
 Admin EU-QA
 Admin EUqa
 Admin EU-QA
+
 URL for the Admin EU-Prod environment
 EU-Prod admin dashboard URLs
 Admin EU-Prod URL
