@@ -1,66 +1,196 @@
--------------------------EU-QA-------------------------
-Open EU-QA environment
-EU-QA environment URLs
-All EU-QA URLs
-Where can I find EU-QA environment links?
-EU-QA access urls
-Login urls to EU-QA environment
-EU-QA backend URLs
-EU-QA dashboard urls
-Provide EU-QA URLs
-How to access EU-QA?
-Where is the EU-QA portal?
-EU-QA site link
-EU-QA platform urls
-EU-QA environment links
+-------------environment_credentials--------------
+What are the EU-QA login credentials?
+Default username/password for IN-QA?
+How do I access EU-QA?
+Test credentials for EU-QA?
+Admin login details for EU-QA?
+Where do I find EU-QA credentials?
+Need a test account for IN-QA
+How to log in to EU-QA?
+Credentials for QA environment?
+Access details for EU-QA?
+Default login for EU-QA?
+What’s the admin password for EU-QA?
+How to get EU-QA access?
+Need a demo account for EU-QA
+Login info for EU-QA?
+Where are credentials stored?
+How to reset EU-QA password?
+Can’t log in to EU-QA, help?
+Authentication for EU-QA?
+SSO for EU-QA?
 
--------------------------IN-QA-------------------------
-Open IN-QA environment
-IN-QA environment URLs
-All IN-QA URLs
-Where can I find IN-QA environment links?
-IN-QA access urls
-Login urls to IN-QA environment
-IN-QA backend URLs
-IN-QA dashboard urls
-Provide IN-QA URLs
-How to access IN-QA?
-Where is the IN-QA portal?
-IN-QA site link
-IN-QA platform urls
-IN-QA environment links
+-------------environment_support_owners--------------
+Who owns DM backend?
+Support for wattman backend?
+Who handles issues backend?
+Energy backend support contact?
+Controls backend owner?
+Metrics backend support?
+Partner portal backend contact?
+DM frontend support?
+Issues frontend owner?
+Controls dashboard frontend contact?
+Partner portal frontend support?
+CMA frontend owner?
+Customer dashboard support?
+Admin dashboard frontend contact?
+Who to contact for backend issues?
+Frontend support team contacts?
+Technical ownership details
+Component support contacts
+Who maintains the backend services?
+Frontend development team contacts
 
--------------------------India-Prod-------------------------
-Open IN-Prod environment
-IN-Prod environment URLs
-All IN-Prod URLs
-Where can I find IN-Prod environment links?
-IN-Prod access urls
-Login urls to IN-Prod environment
-IN-Prod backend URLs
-IN-Prod dashboard urls
-Provide IN-Prod URLs
-How to access IN-Prod?
-Where is the IN-Prod portal?
-IN-Prod site link
-IN-Prod platform urls
-IN-Prod environment links
-Open India-Prod environment
-India-Prod environment URLs
-All India-Prod URLs
-Where can I find India-Prod environment links?
-India-Prod access urls
-Login urls to India-Prod environment
-India-Prod backend URLs
-India-Prod dashboard urls
-Provide India-Prod URLs
-How to access India-Prod?
-Where is the India-Prod portal?
-India-Prod site link
-India-Prod platform urls
-India-Prod environment links
+-------------euqa_environment_urls--------------
+Show me EU-QA links
+Display EU-QA environment URLs
+List EU-QA access points
+EU-QA endpoints please
+Need EU-QA portal addresses
+Give me all EU-QA links
+Fetch EU-QA environment URLs
+Pull up EU-QA sites
+EU-QA web portals list
+EU-QA service endpoints
+What are all the EU-QA URLs?
+Which URLs point to EU-QA?
+Where are EU-QA services hosted?
+How do I reach EU-QA services?
+Can you list EU-QA entry points?
+What's the address for EU-QA?
+Where's EU-QA located online?
+What links access EU-QA?
+How to connect to EU-QA?
+What domains are EU-QA?
+Navigate me to EU-QA
+Take me to EU-QA environment
+Access EU-QA platforms
+Connect to EU-QA services
+Open EU-QA portals
+Launch EU-QA dashboards
+Load EU-QA interfaces
+Direct me to EU-QA
+Route to EU-QA systems
+Enter EU-QA environment
+EU-QA API endpoints
+EU-QA gateway URLs
+EU-QA microservices addresses
+EU-QA admin console links
+EU-QA database access URLs
+EU-QA authentication endpoints
+EU-QA monitoring portal links
+EU-QA analytics dashboards
+EU-QA developer portals
+EU-QA staging environment URLs
+EU-QA vs production URLs
+Difference between EU-QA and EU-Prod links
+QA environment URLs for Europe
+European testing environment addresses
+Staging environment links for EU
+Non-prod EU environment URLs
+EU-QA URLs for developers
+Admin links for EU-QA
+EU-QA tester access points
+Monitoring URLs for EU-QA
+Analyst portals in EU-QA
+EU-QA DevOps endpoints
+Support team EU-QA links
+Client-facing EU-QA URLs
+Internal EU-QA access points
+External EU-QA portals
+EU-QA alternative URLs
+Backup links for EU-QA
+If EU-QA is down, where else?
+Mirror sites for EU-QA
+Fallback EU-QA addresses
+Secondary EU-QA endpoints
+EU-QA disaster recovery URLs
+When main EU-QA is unavailable
+First-time EU-QA access
+Onboarding EU-QA links
+New hire EU-QA resources
+Getting started with EU-QA
+Initial EU-QA portal access
+EU-QA welcome links
+EU-QA orientation URLs
+EU-QA training environment
+EU-QA sandbox access
+EU-QA demo sites
+Secure EU-QA access points
+EU-QA VPN required URLs
+Authenticated EU-QA links
+EU-QA SSO portals
+EU-QA privileged access URLs
+Restricted EU-QA endpoints
+EU-QA whitelisted domains
+EU-QA firewall exceptions
+EU-QA secure gateways
+EU-QA encrypted endpoints
 
--------------------------India-Dev-QA-------------------------
+-------------inqa_environment_urls--------------
+Show IN-QA links
+Display IN-QA environment URLs
+List IN-QA access points
+IN-QA endpoints please
+Need IN-QA portal addresses
+Give me all IN-QA links
+Fetch IN-QA environment URLs
+Pull up IN-QA sites
+IN-QA web portals list
+IN-QA service endpoints
+What are all the IN-QA URLs?
+Which URLs point to IN-QA?
+Where are IN-QA services hosted?
+How do I reach IN-QA services?
+Can you list IN-QA entry points?
+What's the address for IN-QA?
+Where's IN-QA located online?
+What links access IN-QA?
+How to connect to IN-QA?
+What domains are IN-QA?
+Navigate me to IN-QA
+Take me to IN-QA environment
+Access IN-QA platforms
+Connect to IN-QA services
+Open IN-QA portals
+Launch IN-QA dashboards
+Load IN-QA interfaces
+Direct me to IN-QA
+Route to IN-QA systems
+Enter IN-QA environment
+
+-------------inprod_environment_urls--------------
+How do I open the IN-Prod environment?
+Show me the IN-Prod environment URLs
+List all IN-Prod URLs
+Where are the IN-Prod environment links?
+Access IN-Prod URLs
+Login to IN-Prod environment
+IN-Prod backend links
+IN-Prod dashboard links
+Give me the IN-Prod URLs
+How can I access IN-Prod?
+Where is the IN-Prod portal located?
+Link to IN-Prod site
+IN-Prod platform links
+Links for IN-Prod environment
+Open the India-Prod environment
+URLs for India-Prod environment
+List all India-Prod URLs
+Where can I find links for India-Prod environment?
+Access URLs for India-Prod
+Login to India-Prod environment
+India-Prod backend links
+India-Prod dashboard links
+Give me the India-Prod URLs
+How can I access India-Prod?
+Where is the India-Prod portal located?
+Link to India-Prod site
+India-Prod platform links
+Links for India-Prod environment
+
+-------------indevqa_environment_urls--------------
 Open IN-Dev-qa environment
 IN-Dev-qa environment URLs
 All IN-Dev-qa URLs
@@ -89,8 +219,36 @@ Where is the India-Dev-qa portal?
 India-Dev-qa site link
 India-Dev-qa platform urls
 India-Dev-qa environment links
+How do I open the IN-Dev-qa environment?
+Show me the IN-Dev-qa environment URLs
+List all IN-Dev-qa URLs
+Where are the IN-Dev-qa environment links?
+Access IN-Dev-qa URLs
+Login to IN-Dev-qa environment
+IN-Dev-qa backend links
+IN-Dev-qa dashboard links
+Give me the IN-Dev-qa URLs
+How can I access IN-Dev-qa?
+Where is the IN-Dev-qa portal located?
+Link to IN-Dev-qa site
+IN-Dev-qa platform links
+Links for IN-Dev-qa environment
+Open the India-Dev-qa environment
+URLs for India-Dev-qa environment
+List all India-Dev-qa URLs
+Where can I find links for India-Dev-qa environment?
+Access URLs for India-Dev-qa
+Login to India-Dev-qa environment
+India-Dev-qa backend links
+India-Dev-qa dashboard links
+Give me the India-Dev-qa URLs
+How can I access India-Dev-qa?
+Where is the India-Dev-qa portal located?
+Link to India-Dev-qa site
+India-Dev-qa platform links
+Links for India-Dev-qa environment
 
--------------------------EU-Prod-------------------------
+-------------euprod_environment_urls--------------
 Open EU-Prod environment
 EU-Prod environment URLs
 All EU-Prod URLs
@@ -105,8 +263,66 @@ Where is the EU-Prod portal?
 EU-Prod site link
 EU-Prod platform urls
 EU-Prod environment links
+Open EU-Prod environment
+EU-Prod environment URLs
+All EU-Prod URLs
+Where can I find EU-Prod environment links?
+EU-Prod access urls
+Login urls to EU-Prod environment
+EU-Prod backend URLs
+EU-Prod dashboard urls
+Provide EU-Prod URLs
+How to access EU-Prod?
+Where is the EU-Prod portal?
+EU-Prod site link
+EU-Prod platform urls
+EU-Prod environment links
+How do I open the EU-Prod environment?
+Show me the EU-Prod environment URLs
+List all EU-Prod URLs
+Where are the EU-Prod environment links?
+Access EU-Prod URLs
+Login to EU-Prod environment
+EU-Prod backend links
+EU-Prod dashboard links
+Give me the EU-Prod URLs
+How can I access EU-Prod?
+Where is the EU-Prod portal located?
+Link to EU-Prod site
+EU-Prod platform links
+Links for EU-Prod environment
 
--------------------------Admin-EU-QA-------------------------
+-------------euqa_environment_admin_url--------------
+URL for the Admin EU-qa environment
+EU-qa admin dashboard urls
+Admin EU-qa URL
+EU qa admin url
+EU-qa admin url
+EUqa admin dashboard url
+euqa environment admin url
+Tell me EU qa admin dashboard url
+What is the EU-qa admin dashboard URL?
+Share the link for the EU-qa admin dashboard panel.
+Provide the EU-qa admin dashboard login URL.
+How do I access the EU-qa admin dashboard?
+Where can I find the EU-qa admin dashboard site?
+EU-qa admin dashboard environment URL?
+admin dashboard access URL for EU-qa?
+Can you give me the admin dashboard portal link for EU-qa?
+Direct link to the EU-qa admin dashboard?
+EU-qa admin dashboard site?
+EU-qa admin dashboard login page link?
+Where’s the EU-qa admin dashboard page?
+Give me the EU-qa admin dashboard URL.
+How do I log in to EU-qa admin dashboard?
+admin dashboard portal link for EU-qa?
+EUqa admin dashboard URL?
+EUqa admin dashboard link?
+EU-qa admin dashboard URL?
+EU-qa admin dashboard?
+admin eu qa
+admin euqa
+admin eu-qa
 URL for the Admin EU-qa environment
 EU-qa admin dashboard urls
 Admin EU-qa URL
@@ -138,7 +354,7 @@ admin eu qa
 admin euqa
 admin eu-qa
 
--------------------------Admin-EU-Prod-------------------------
+-------------euprod_environment_admin_url--------------
 URL for the Admin EU-Prod environment
 EU-Prod admin dashboard urls
 Admin EU-Prod URL
@@ -166,3 +382,68 @@ EUprod admin dashboard URL?
 EUprod admin dashboard link?
 EU-Prod admin dashboard URL?
 EU-Prod admin dashboard?
+admin eu prod
+URL for the Admin EU-Prod environment
+EU-Prod admin dashboard urls
+Admin EU-Prod URL
+EU prod admin url
+EU-prod admin url
+EUprod admin dashboard url
+euprod environment admin url
+Tell me EU Prod admin dashboard url
+What is the EU-Prod admin dashboard URL?
+Share the link for the EU-Prod admin dashboard panel.
+Provide the EU-Prod admin dashboard login URL.
+How do I access the EU-Prod admin dashboard?
+Where can I find the EU-Prod admin dashboard site?
+EU-Prod admin dashboard environment URL?
+admin dashboard access URL for EU-Prod?
+Can you give me the admin dashboard portal link for EU-Prod?
+Direct link to the EU-Prod admin dashboard?
+EU-Prod admin dashboard site?
+EU-Prod admin dashboard login page link?
+Where’s the EU-Prod admin dashboard page?
+Give me the EU-Prod admin dashboard URL.
+How do I log in to EU-Prod admin dashboard?
+admin dashboard portal link for EU-Prod?
+EUprod admin dashboard URL?
+EUprod admin dashboard link?
+EU-Prod admin dashboard URL?
+EU-Prod admin dashboard?
+admin eu prod
+
+-------------create_jira_bug_from_test_execution--------------
+How to create a bug during test execution?
+Create a bug when test execution fails
+Steps to create a bug from test execution
+How to link a bug to a test execution?
+Create Jira bug from test execution
+Report a bug during test execution
+Link bug to test case in execution
+Create bug in QA project during test execution
+How to report a bug in test execution?
+Create and link bug in test execution
+
+-------------jira_zen_team_qa1--------------
+Raise a bug in Zen-Team-QA project
+How to log QA bugs in Zen-Team-QA project?
+QA test creation URL for Zen-Team-QA project
+Zen-Team-QA project bug creation link
+Where to create QA tests for Zen-Team-QA project?
+Zen-Team-QA project bug creation
+How do I log a bug in Zen-Team-QA project?
+Zen-Team-QA project test URL
+Link to create QA tests in Zen-Team-QA project
+QA test case execution process for Zen-Team-QA project
+
+-------------jira_smb--------------
+Create a task on SMB project
+How to raise a task in SMB project?
+Task creation URL for SMB project
+SMB project task creation link
+Where to create tasks for SMB project?
+SMB project task creation
+How do I create a task in SMB project?
+SMB project task URL
+Link to create tasks in SMB project
+Task creation process for SMB project
